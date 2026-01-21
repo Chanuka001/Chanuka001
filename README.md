@@ -24,7 +24,7 @@
 
 ### 💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,kotlin" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,kotlin,c,cpp" />
 </p>
 
 ### ⚙️ Frameworks & Libraries  
@@ -88,7 +88,10 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chanuka001/Chanuka001/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chanuka001/Chanuka001/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chanuka001/Chanuka001/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
