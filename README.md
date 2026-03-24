@@ -15,8 +15,7 @@
 
 🎓 IT Undergraduate at **SLIIT**  
 💡 Love building clean, simple & user-friendly apps  
-📚 Always learning & improving  
-🎯 Looking for **internship opportunities**  
+📚 Always learning & improving   
 
 ---
 
